@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: spring
-          image: 761278642645.dkr.ecr.ap-northeast-2.amazonaws.com/init-test
+          image: 761278642645.dkr.ecr.ap-northeast-2.amazonaws.com/init-test:23
